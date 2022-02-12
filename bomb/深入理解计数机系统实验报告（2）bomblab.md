@@ -1,13 +1,3 @@
----
-title: 深入理解计数机系统Bomblab实验报告（超详细）
-date: 2022年1月24日
-cover: https://gitee.com/kong_lingyun/img_bed/raw/master/img/bg_ (32).jpg
-tags:
-- 计算机系统实验
-categories:
-- CS:APP
----
-
 ## 前言
 
 经过`datalab`的洗礼后，然后就迫不及待地开始上手`bomblab`啦，但是我万万没想到啊，这一个实验居然需要用到汇编的知识还要求学会调试器`gdb`的使用

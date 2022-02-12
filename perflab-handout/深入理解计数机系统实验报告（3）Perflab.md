@@ -1,13 +1,3 @@
----
-title: 深入理解计数机系统Perllab实验报告（超详细）
-date: 2022年2月8日
-cover: https://gitee.com/kong_lingyun/img_bed/raw/master/img/bg_ (33).jpg
-tags:
-- 计算机系统实验
-categories:
-- CS:APP
----
-
 ## 前言
 
 这个实验应该是对应着课程视频中的 [CSAPP 深入理解计算机系统 Lecture 10 Program Optimization](https://www.bilibili.com/video/BV1iW411d7hd?p=10) 说实话这样的一个重要的话题用一堂课的时间讲解未免有些许捉襟见肘
@@ -468,4 +458,3 @@ Smooth: 14.6 (smooth: Current working version)
 > 文章作者: 扶明
 > 文章链接: https://alden-elias.github.io/2022/02/12/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E6%95%B0%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%883%EF%BC%89Perflab/
 > 版权声明: 本博客所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明来自 扶明の小站！
->
